@@ -1,2 +1,2 @@
 # Oop-JAVA
-all documents
+all documents for OOP lesson
